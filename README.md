@@ -26,8 +26,15 @@ Latinio is an open source crypto-currency focused on fast transactions with low 
 ### PoS Rewards Breakdown
 
 <table>
-<th>Year</th><th>Block Height</th><th>Total Reward</th><th>PoS Reward</th><th>Masternode Reward</th>
-<tr><td>1-2</td><td>3-1051200</td><td>6 LTN</td><td>2 LTN</td><td>4 LTN</td></tr>
-<tr><td>3-4</td><td>1051201-2102400</td><td>3 LTN</td><td>1 LTN</td><td>2 LTN</td></tr>
-<tr><td>5+</td><td>2102401+</td><td>0 LTN</td><td>0 LTN</td><td>0 LTN</td></tr>
+<th>Year</th><th>Block Height</th><th>Total Reward</th><th>PoS Reward</th><th>Masternode Reward 60% Block</th>
+<tr><td>1-2</td><td>70794 - 100;</td>
+<tr><td>3-4</td><td>386255 - 50;</td>
+<tr><td>5-6</td><td>701616 - 25;</td>
+<tr><td>7-8</td><td>1122097 - 12.5;</td>
+<tr><td>9-10</td><td>1857938 - 6.25;</td>
+<tr><td>11-12</td><td>3224499 - 3.125;</td>
+<tr><td>13-14</td><td>6167860 - 1.5625;</td>
+<tr><td>15-16</td><td>10372661 - 0.78125;</td>
+<tr><td>17-18</td><td>18827062 - 0.390625;</td>
+<tr><td>19-20</td><td>0.390625</td>
 </table>
